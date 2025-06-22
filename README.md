@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pranjal Varshney
-- 👀 I’m interested in Data Analytics, Machine Learning and AI Fundamentals
+- 👀 I’m interested in Data Analytics, Machine Learning, AI Fundamental, and Low Level Designing
 - 🌱 I’m currently learning AI Fundamentals
 - 💞️ I’m looking to collaborate on Analytics and AI Fundamentals
 - 📫 How to reach me Mail: pranjal012003@gmail.com
